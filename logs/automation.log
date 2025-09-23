@@ -1,0 +1,30 @@
+2025-09-23 07:53:32 INFO  TC001_AccountRegistrationTest:24 - Verifying Account Registration Test
+2025-09-23 07:53:32 INFO  TC001_AccountRegistrationTest:29 - clicked on My Account
+2025-09-23 07:53:34 INFO  TC001_AccountRegistrationTest:31 - clicked on Register button
+2025-09-23 07:53:34 INFO  TC001_AccountRegistrationTest:34 - Providing Account Registration Details
+2025-09-23 07:53:36 INFO  TC001_AccountRegistrationTest:47 - validating expected message
+2025-09-23 07:53:36 INFO  TC001_AccountRegistrationTest:63 - completed Verifying Account Registration Test
+2025-09-23 07:53:44 INFO  TC002_LoginTest:14 - ----starting LoginTest-----
+2025-09-23 07:53:44 INFO  TC002_LoginTest:20 - ----clicked Login page-----
+2025-09-23 07:53:45 INFO  TC002_LoginTest:27 - ----clicked Login button-----
+2025-09-23 07:53:45 INFO  TC002_LoginTest:37 - -----end LoginTest-----
+2025-09-23 18:25:35 INFO  TC001_AccountRegistrationTest:24 - Verifying Account Registration Test
+2025-09-23 18:25:36 INFO  TC001_AccountRegistrationTest:29 - clicked on My Account
+2025-09-23 18:25:36 INFO  TC001_AccountRegistrationTest:31 - clicked on Register button
+2025-09-23 18:25:36 INFO  TC001_AccountRegistrationTest:34 - Providing Account Registration Details
+2025-09-23 18:25:38 INFO  TC001_AccountRegistrationTest:47 - validating expected message
+2025-09-23 18:25:38 INFO  TC001_AccountRegistrationTest:63 - completed Verifying Account Registration Test
+2025-09-23 18:25:39 INFO  TC002_LoginTest:14 - ----starting LoginTest-----
+2025-09-23 18:25:40 INFO  TC002_LoginTest:20 - ----clicked Login page-----
+2025-09-23 18:25:40 INFO  TC002_LoginTest:27 - ----clicked Login button-----
+2025-09-23 18:25:41 INFO  TC002_LoginTest:37 - -----end LoginTest-----
+2025-09-23 18:31:08 INFO  TC001_AccountRegistrationTest:24 - Verifying Account Registration Test
+2025-09-23 18:31:08 INFO  TC001_AccountRegistrationTest:29 - clicked on My Account
+2025-09-23 18:31:09 INFO  TC001_AccountRegistrationTest:31 - clicked on Register button
+2025-09-23 18:31:09 INFO  TC001_AccountRegistrationTest:34 - Providing Account Registration Details
+2025-09-23 18:31:11 INFO  TC001_AccountRegistrationTest:47 - validating expected message
+2025-09-23 18:31:11 INFO  TC001_AccountRegistrationTest:63 - completed Verifying Account Registration Test
+2025-09-23 18:31:13 INFO  TC002_LoginTest:14 - ----starting LoginTest-----
+2025-09-23 18:31:13 INFO  TC002_LoginTest:20 - ----clicked Login page-----
+2025-09-23 18:31:13 INFO  TC002_LoginTest:27 - ----clicked Login button-----
+2025-09-23 18:31:14 INFO  TC002_LoginTest:37 - -----end LoginTest-----
