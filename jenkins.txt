@@ -1,0 +1,3 @@
+93035fa850164ddb8c81dfa53b2819c1
+admin
+http://localhost:8080/
